@@ -1,0 +1,7 @@
+{
+  "notion_page_id":       "34250e88a6f68068be35f22b6e1d07e2",
+  "notion_database_id":   "4b64c4270fd04bdf9407cd265edf3a91",
+  "notion_datasource_id": "6dc2aa37-7311-47fd-ac27-9b0d3aeb7ff6",
+  "database_name":        "DrFrost Weak Skills",
+  "note": "These IDs are used by Claude when syncing DrFrost results to Notion."
+}

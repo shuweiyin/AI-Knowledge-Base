@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776077309942-8pfkhmfid",
+  "providerId": "claude",
+  "title": "Create ACEBott setup troubleshooting guide",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776077309952,
+  "updatedAt": 1776077565319,
+  "lastResponseAt": 1776077396698,
+  "sessionId": "e6d6f646-2e1f-44d0-a706-06578ada6c80",
+  "providerState": {
+    "providerSessionId": "e6d6f646-2e1f-44d0-a706-06578ada6c80"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 2039,
+    "cacheReadInputTokens": 19372,
+    "contextWindow": 1000000,
+    "contextTokens": 21412,
+    "percentage": 2,
+    "contextWindowIsAuthoritative": true
+  }
+}

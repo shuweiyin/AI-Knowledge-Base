@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776024845915-nnf741pyt",
+  "providerId": "claude",
+  "title": "Plan app deployment to Vercel with Claude",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776024845925,
+  "updatedAt": 1776072133850,
+  "lastResponseAt": 1776066319905,
+  "sessionId": "11df7731-5d0a-4d2f-add1-e6b2a44408fa",
+  "providerState": {
+    "providerSessionId": "11df7731-5d0a-4d2f-add1-e6b2a44408fa"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1247,
+    "cacheReadInputTokens": 69724,
+    "contextWindow": 1000000,
+    "contextTokens": 70972,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

@@ -4,8 +4,8 @@
   "title": "Create Claude educational guide for students",
   "titleGenerationStatus": "success",
   "createdAt": 1776012240804,
-  "updatedAt": 1776017100314,
-  "lastResponseAt": 1776017100314,
+  "updatedAt": 1776024680398,
+  "lastResponseAt": 1776024003927,
   "sessionId": "aee390c8-a49b-40a8-90f7-46ed686c03df",
   "providerState": {
     "providerSessionId": "aee390c8-a49b-40a8-90f7-46ed686c03df"
@@ -13,11 +13,11 @@
   "usage": {
     "model": "sonnet[1m]",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 315,
-    "cacheReadInputTokens": 82311,
+    "cacheCreationInputTokens": 363,
+    "cacheReadInputTokens": 94163,
     "contextWindow": 1000000,
-    "contextTokens": 82627,
-    "percentage": 8,
+    "contextTokens": 94527,
+    "percentage": 9,
     "contextWindowIsAuthoritative": true
   }
 }

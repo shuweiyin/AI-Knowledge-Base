@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776072873089-s9vtkmr93",
+  "providerId": "claude",
+  "title": "Build fullstack app with Firebase and Next.js",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776072873102,
+  "updatedAt": 1776076897262,
+  "lastResponseAt": 1776075550487,
+  "sessionId": "863c5416-c14a-415d-b2f9-38111b5031f3",
+  "providerState": {
+    "providerSessionId": "863c5416-c14a-415d-b2f9-38111b5031f3"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 362,
+    "cacheReadInputTokens": 65691,
+    "contextWindow": 1000000,
+    "contextTokens": 66054,
+    "percentage": 7,
+    "contextWindowIsAuthoritative": true
+  }
+}

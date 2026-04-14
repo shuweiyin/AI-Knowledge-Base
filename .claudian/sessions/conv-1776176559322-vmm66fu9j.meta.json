@@ -1,0 +1,23 @@
+{
+  "id": "conv-1776176559322-vmm66fu9j",
+  "providerId": "claude",
+  "title": "Create Claude hooks skill guide",
+  "titleGenerationStatus": "success",
+  "createdAt": 1776176559331,
+  "updatedAt": 1776179532419,
+  "lastResponseAt": 1776176712569,
+  "sessionId": "b3763618-2512-4d6b-963d-b7ed9ebb4f99",
+  "providerState": {
+    "providerSessionId": "b3763618-2512-4d6b-963d-b7ed9ebb4f99"
+  },
+  "usage": {
+    "model": "sonnet[1m]",
+    "inputTokens": 3,
+    "cacheCreationInputTokens": 450,
+    "cacheReadInputTokens": 33640,
+    "contextWindow": 1000000,
+    "contextTokens": 34093,
+    "percentage": 3,
+    "contextWindowIsAuthoritative": true
+  }
+}
