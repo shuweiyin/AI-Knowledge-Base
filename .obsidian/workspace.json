@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Resources/📖 REFERENCE/Claudian plugin.md",
+                "file": "05-Projects/Own Wiki/GitHub Vault Backup - Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claudian plugin"
+              "title": "GitHub Vault Backup - Project"
             }
           }
         ]
@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 475.5
+    "width": 426.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,17 +205,20 @@
   },
   "active": "79f2eee543f03b84",
   "lastOpenFiles": [
+    "07-Fullstack-Development/03-Firebase/Firebase Auth - Google & Email.md",
+    "05-Projects/DrFrost-Sync/How to Re-sync DrFrost.md",
+    "05-Projects/DrFrost-SaaS/PRD.md",
+    "05-Projects/DrFrost-SaaS",
+    "05-Projects/Collect Wrong Math questions/Colect-Wrong-Math-Qestions-Project.md",
+    "06-Resources/📖 REFERENCE/Claudian plugin.md",
+    "05-Projects/Own Wiki/Build Your Own Wiki - Project.md",
     "06-Resources/📋 TEMPLATES/SKILL-3-Lesson-Plan.md",
     "06-Resources/📋 TEMPLATES/SKILL-1-Module-Overview.md",
     "06-Resources/📋 TEMPLATES/00-SKILLS-INDEX.md",
     "06-Resources/📋 TEMPLATES/SKILL-2-Concept-Note.md",
-    "06-Resources/📖 REFERENCE/Claudian plugin.md",
     "05-Projects/Own Wiki/Obsidian Best Practices - Project.md",
     "03-Applications/Tools/What is Claude Code - Concept Note.md",
-    "05-Projects/Own Wiki/Build Your Own Wiki - Project.md",
-    "05-Projects/Collect Wrong Math questions/Colect-Wrong-Math-Qestions-Project.md",
     "05-Projects/Collect Wrong Math questions",
-    "05-Projects/DrFrost-Sync/How to Re-sync DrFrost.md",
     "03-Applications/Tools/Claude Managed Agents - Concept Note.md",
     "05-Projects/DrFrost-Sync/notion_config.json",
     "05-Projects/DrFrost-Sync/drfrost_scraper.py",
@@ -236,12 +239,9 @@
     "05-Projects/Music Sampler/Music Sampler Web App - Project.md",
     "02-Programming-Basics/Snake-Game-Builder.md",
     "02-Programming-Basics/Claude-Artifacts-Game-Builder.md",
-    "02-Programming-Basics/Interactive-Learning-Platforms.md",
-    "Untitled.md",
     "Excalidraw",
     "08-Lessons/Studio_Level_1__Online_Lesson_Programme_pdf.pdf",
     "08-Lessons/Foundation_Level__Online_Lesson_Programme_pdf.pdf",
-    "08-Lessons/工作室一班__在线课程介绍_pdf.pdf",
     "06-Resources/🔗 EXTERNAL-AND-LINKS/ACEBOTT/image1.png",
     "06-Resources/🔗 EXTERNAL-AND-LINKS/ACEBOTT/image5.png",
     "06-Resources/🔗 EXTERNAL-AND-LINKS/ACEBOTT/image4.png",
